@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/public/":{"guestpath":"/var/www/public","hostpath":"C:/vtigerTest/vtigercrm","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/HashiCorp/Vagrant/Boxes/MoveHQ","disabled":false,"__vagrantfile":true}}}
